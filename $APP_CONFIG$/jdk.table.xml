@@ -1,0 +1,26 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="" />
+      <type value="JavaSDK" />
+      <homePath value="$APPLICATION_HOME_DIR$/jbr/bin" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_PLUGINS_DIR$/rider-android/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
