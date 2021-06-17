@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="qrc" type="PLAIN_TEXT" />
-      <removed_mapping ext="qrc" approved="true" type="XML" />
+      <mapping ext="terrainlayer" type="PLAIN_TEXT" />
+      <mapping ext="mat" type="PLAIN_TEXT" />
+      <mapping ext="brush" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
