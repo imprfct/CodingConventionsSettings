@@ -13,7 +13,6 @@
     <entry key="ide.debug.in.title" value="true" />
     <entry key="debugger.new.debug.tool.window.view" value="true" />
     <entry key="debugger.show.values.use.inlays" value="false" />
-    <entry key="ide.mac.bigsur.alerts.enabled" value="false" />
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.require.transaction.for.model.changes" value="false" />
     <entry key="search.everywhere.pattern.checking" value="false" />
@@ -33,5 +32,6 @@
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.new.project.model" value="false" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
+    <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
   </component>
 </application>
