@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="qrc" type="PLAIN_TEXT" />
+      <removed_mapping ext="qrc" approved="true" type="XML" />
+    </extensionMap>
+  </component>
+</application>
