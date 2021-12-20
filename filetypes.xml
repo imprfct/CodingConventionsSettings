@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="gda_git" type="AUTO_DETECTED" />
       <mapping ext="terrainlayer" type="PLAIN_TEXT" />
       <mapping ext="mat" type="PLAIN_TEXT" />
       <mapping ext="brush" type="PLAIN_TEXT" />
