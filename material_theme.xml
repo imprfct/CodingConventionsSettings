@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="premium" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="accentColor" value="2aa298" />
+    <option name="selectedTheme" value="LIGHT_OWL" />
+    <option name="userId" value="-4ba8a171:17e49b573c6:-8000" />
+    <option name="version" value="6.9.1" />
+  </component>
+</application>
