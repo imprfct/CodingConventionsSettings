@@ -21,4 +21,11 @@
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="ShaderWidget" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
