@@ -22,4 +22,13 @@
       </entry>
     </option>
   </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="HIGHLIGHTING_LEVEL" value="ADVANCED" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
 </application>
